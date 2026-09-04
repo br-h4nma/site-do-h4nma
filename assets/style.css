@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+     padding: 0px;
+}
+/*CSS vem aqui em baixo*/
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: 8E4C2B;
+}
+body h1, h2, h3 {
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body a {
+    text-transform: uppercase;
+     text-transform: none;
+      color: black;
+}
+body a:hover {
+    text-transform: uppercase;
+     font-weight: bold;
+}
+
