@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+     padding: 0px;
+}
+/*CSS vem aqui em baixo*/
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#0d1117;
+    color: white;
+}
+
+nav {
+
+background-color:gray;
+padding: 15px;
+text-align: center;
+
+}
+
+nav a {
+
+color:white;
+text-decoration: none;
+margin-right: 15px;
+
+}
+
+nav a:hover {
+
+    color:aqua;
+
+}
+
+section {
+    padding: 25px;
+}
